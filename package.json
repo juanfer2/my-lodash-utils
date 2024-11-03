@@ -1,6 +1,6 @@
 {
   "name": "@cmaj7/my-lodash-utils",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "library for some methods",
   "main": "./lib/index.js",
   "private": false,
