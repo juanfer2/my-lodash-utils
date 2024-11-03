@@ -1,5 +1,5 @@
 {
-  "name": "@my-lodash-utils/utilities",
+  "name": "@cmaj7/my-lodash-utils",
   "version": "1.0.0",
   "description": "library for some methods",
   "main": "./lib/index.js",
