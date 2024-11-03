@@ -120,3 +120,5 @@ lib
 lib/
 
 snyk
+
+tsconfig.build.tsbuildinfo
