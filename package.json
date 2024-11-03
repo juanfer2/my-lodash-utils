@@ -1,0 +1,11 @@
+{
+  "name": "@my-lodash-utilities/my-lodash-utilities",
+  "version": "1.0.0",
+  "description": "library for some methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
