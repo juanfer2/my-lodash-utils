@@ -1,4 +1,4 @@
-# my-lodash-utilities
+# my-lodash-utils
 
 > A modern JavaScript utility lite library delivering modularity, performance & extras
 
@@ -6,35 +6,13 @@
 Install package run:
 
 ```bash
-npm i my-lodash-utilities
+npm i @cmaj7/my-lodash-utils
 ```
 
 ## Usage
 
 ```ts
-import { myPackage } from 'my-package-name';
+import { isEmpty } from '@cmaj7/my-lodash-utils';
 
-myPackage('hello');
-//=> 'hello from my package'
+isEmpty([]); //=> true
 ```
-
-## API
-
-### myPackage(input, options?)
-
-#### input
-
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-Type: `object`
-
-##### postfix
-
-Type: `string`
-Default: `rainbows`
-
-Lorem ipsum.
